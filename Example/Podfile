@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TTBaiduKit_Example' do
+  pod 'TTBaiduKit', :path => '../'
+
+  target 'TTBaiduKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
