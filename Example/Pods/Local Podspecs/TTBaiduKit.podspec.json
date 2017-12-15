@@ -1,0 +1,22 @@
+{
+  "name": "TTBaiduKit",
+  "version": "0.1.0",
+  "summary": "A short description of TTBaiduKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1874372391@qq.com/TTBaiduKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1874372391@qq.com": "1874372391@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1874372391@qq.com/TTBaiduKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TTBaiduKit/Classes/**/*"
+}
